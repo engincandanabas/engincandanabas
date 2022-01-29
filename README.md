@@ -6,5 +6,5 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engincandanabas&show_icons=true&locale=en&layout=compact" alt="engincandanabas" width="250" height="400">
-<img src="https://github-readme-stats.vercel.app/api?username=engincandanabas&show_icons=true&locale=en" alt="engincandanabas">
+<img src="https://github-readme-stats.vercel.app/api?username=engincandanabas&show_icons=true&locale=en" alt="engincandanabas" width="250" height="400">
 </p>
